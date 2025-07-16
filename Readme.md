@@ -48,7 +48,7 @@ MATLAB software for the automatic length measure determination of the model orga
   <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/WM_fastuse_2.png" width="400"/>
 </p>
 
-<p>
+<p align="right">
   Developed in: 
   <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/Matlab_Logo.png" alt="WorMe Logo" width="50" style="vertical-align: middle; margin-left: 8px;">
 </p>
@@ -79,7 +79,7 @@ R studio program of basic graphic analysis of the notes of students in secondary
 </p>
 
 
-<p>
+<p align = "right">
   Developed in: 
   <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/Rstudio.png" alt="WorMe Logo" width="50" style="vertical-align: middle; margin-left: 8px;">
 </p>
