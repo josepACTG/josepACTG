@@ -24,10 +24,10 @@ I am current and perennially fascinated for many things, such as: 🌿 plants an
 <br>
 
 
-## 🧪 Projects I developed:
+# 🧪 Projects I developed:
 I would like to briefly show you the projects I have been developing:  
 
-<h3 align="center">WorMe length determination </h3>
+<h2 align="center">WorMe length determination </h2>
 
 MATLAB software for the automatic length measure determination of the model organism *Caenorhabditis elegans* in microscopic images .  
 
@@ -56,7 +56,7 @@ MATLAB software for the automatic length measure determination of the model orga
 
 <br>
 
-<h3 align="center">Notes Auto ESO</h3>
+<h2 align="center">Notes Auto ESO</h2>
 
 R studio program of basic graphic analysis of the notes of students in secondary school. Because all the grades used to be as same (→ Student ; ↓ Subjects), by just introducing a spreadsheet the graphication is automatically generated. This aims to save time to teachers.  
 
