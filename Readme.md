@@ -84,3 +84,12 @@ R studio program of basic graphic analysis of the notes of students in secondary
   <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/Rstudio.png" alt="WorMe Logo" width="50" style="vertical-align: middle; margin-left: 8px;">
 </p>
 
+<br>
+
+<!-- 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosepACTG&show_icons=true&theme=radical" alt="JosepACTG's GitHub stats" width="50%" />
+</p>
+
+ -->
