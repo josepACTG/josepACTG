@@ -8,7 +8,7 @@ My name is Josep, I am a secondary school teacher in technology who likes nature
 </p>
 
 <p align="center">
-I can show you an image of me, of my last vacations in Menorca:
+I would like to show you an image of me, of my last vacations in Menorca:
 </p>
 
 <p align="center">
@@ -18,14 +18,14 @@ I can show you an image of me, of my last vacations in Menorca:
 </p>
 
 <p align="center">
-I am current and perennially fascinated for many things, such as: 🌿 plants and nature, 🤖🐋 the artificial intelligence tools, ⚙️ motors and technology. 
+I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the artificial intelligence tools, ⚙️ motors and technology, good novel readings 📚, role playing and card games 🎴. 
 </p>
 
 <br>
 
 
 # 🧪 Projects I developed:
-I would like to briefly show you the projects I have been developing:  
+Below there are the projects I have developed and currently working on:  
 
 <h2 align="center">WorMe length determination </h2>
 
