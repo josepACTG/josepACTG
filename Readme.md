@@ -18,7 +18,7 @@ I would like to show you an image of me, of my last vacations in Menorca:
 </p>
 
 <p align="center">
-I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the artificial intelligence tools, ⚙️ motors and technology, good novel readings 📚, role playing and card games 🎴. 
+I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the artificial intelligence tools, ⚙️ motors and technology, 📚 good novel readings, 🎴 role playing and card games. 
 </p>
 
 <br>
