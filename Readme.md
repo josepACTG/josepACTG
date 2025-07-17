@@ -13,7 +13,7 @@ I can show you an image of me, of my last vacations in Menorca:
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/josepACTG/josepACTG/refs/heads/main/Images/memes_y_cunados_6890.png" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/Josep_nude_2.png" width="80" alt="Josep Image"/>
+    <img src="https://raw.githubusercontent.com/josepACTG/josepACTG/main/Images/Josep_nude.png" width="80" alt="Josep Image"/>
   </a>
 </p>
 
