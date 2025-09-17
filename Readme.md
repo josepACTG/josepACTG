@@ -24,12 +24,11 @@ I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the ar
 </p>
 --!>
 
-
 <br>
 
 
 
-# 🧪 Projects I developed:
+<h1 align="center">🧪 Projects I developed:</h1>
 Below there are the projects I have developed and currently working on:  
 
 <h2 align="center">WorMe length determination </h2>
