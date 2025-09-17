@@ -22,10 +22,12 @@ I would like to show you an image of me, of my last vacations in Menorca:
 <p align="center">
 I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the artificial intelligence tools, ⚙️ motors and technology, 📚 good novel readings, 🎴 role playing and card games. 
 </p>
+--!>
+
 
 <br>
 
---!>
+
 
 # 🧪 Projects I developed:
 Below there are the projects I have developed and currently working on:  
