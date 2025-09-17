@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hello to my GitHub! </h1>
 
 <p align="center">
-My name is Josep, a partial-time programmer who developed WorMe software, a MATLAB GUI-user-designed image analysis of *C. elegans* for the length automatic determination.  
-Currently I am a secondary school teacher in the technology subject, and I was developing a basic and incipient grades-automatic analysis and visualization online tool, programming it with R studio and Shiny app.  
-if you want to see more, look at the programs down here ↓.
+My name is Josep, a partial-time programmer who developed WorMe software, a MATLAB GUI-user-designed image analysis of <i>C. elegans</i> for the length automatic determination. <br>
+Currently I am a secondary school teacher in the technology subject, and I was developing a basic and incipient grades-automatic analysis and visualization online tool, programming it with R studio and Shiny app. <br>
+if you want to see more, look at the programs down here ↓. <br>
 </p>
 
 <!--
