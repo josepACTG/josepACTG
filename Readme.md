@@ -1,6 +1,8 @@
 
 <h1 align="center">👋 Hello to my GitHub! </h1>
 
+
+<!--
 <p align="center">
 Hello! 👋 <br>
 My name is Josep, I am a secondary school teacher in technology who likes nature (Biotechnology as formation), likes to program, and, as a good catalan, "hacer cosas". <br>  
@@ -23,6 +25,7 @@ I am fascinated for many things, such as 🌿 plants and nature, 🤖🐋 the ar
 
 <br>
 
+--!>
 
 # 🧪 Projects I developed:
 Below there are the projects I have developed and currently working on:  
